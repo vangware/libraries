@@ -1,3 +1,7 @@
+> This repository's code was moved to [lou.codes](https://lou.codes).
+
+---
+
 <img id="logo" alt="@vangware/ansi" src="https://vangware.com/logo.svg" height="72" />
 
 📚 [Vangware][vangware] libraries monorepo
